@@ -1,0 +1,12 @@
+{
+  "bindings": [
+    {
+      "name": "myTimer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 21 * * Tue" // This CRON expression represents every Tuesday at 9pm
+    }
+  ],
+  "scriptFile": "__init__.py",
+  "entryPoint": "main"
+}
