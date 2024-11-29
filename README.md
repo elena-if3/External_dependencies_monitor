@@ -1,4 +1,5 @@
 **Technologies**
+
 Python & relevant libraries – Azure Functions – SonarCloud
 
 **App – once a week**
